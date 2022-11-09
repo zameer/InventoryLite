@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+INryR6SnkJeOLORFM8+Zpad5cgWPDZZwMmy7piJeIc=",
+  "Source": "Inventory.Core.Web.Api",
+  "BasePath": "_content/Inventory.Core.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
