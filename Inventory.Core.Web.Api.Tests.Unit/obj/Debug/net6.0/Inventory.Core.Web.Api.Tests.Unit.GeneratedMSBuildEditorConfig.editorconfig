@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Inventory.Core.Web.Api.Tests.Unit
-build_property.ProjectDir = D:\osos\learn\repos\Inventory.Core\Inventory.Core.Web.Api.Tests.Unit\
+build_property.ProjectDir = D:\osos\learn\repos\InventoryLite\Inventory.Core.Web.Api.Tests.Unit\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "asxf9S0+L+/ZFVjSgeNYDNdw8wYo3PJwX7nh9RdKHNUaTOqj+gyiYZEKhueP9K69neT+p4uxszcLm/H/JpQ+yQ==",
+  "dgSpecHash": "zKoWAiljJNH/DRoX5tay8h8A0H1bop1rlL3lXoCQwS+h7/ntA5LNvE/tfymyehJmv2CDHZvJTv/DlYVnukZyYQ==",
   "success": true,
-  "projectFilePath": "D:\\osos\\learn\\repos\\Inventory.Core\\Inventory.Core.Web.Api\\Inventory.Core.Web.Api.csproj",
+  "projectFilePath": "D:\\osos\\learn\\repos\\InventoryLite\\Inventory.Core.Web.Api\\Inventory.Core.Web.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
