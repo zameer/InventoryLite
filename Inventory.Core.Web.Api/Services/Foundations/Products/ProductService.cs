@@ -30,7 +30,7 @@ namespace Inventory.Core.Web.Api.Services.Foundations.Products
         {
             ValidateProductOnCreate(product);
 
-            return await this.storageBroker.InsertProductAsync(product);
+            throw new NotImplementedException();//await this.storageBroker.InsertProductAsync(product);
         });
 
         public IQueryable<Product> RetrieveAllProducts() =>
